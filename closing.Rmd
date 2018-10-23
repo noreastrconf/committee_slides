@@ -1,0 +1,152 @@
+---
+title: "Closing Remarks"
+author: "Jeff Hollister"
+date: 2018-10-26
+meeting: "Nor'eastR 2018"
+location: "PRovidence, RI"
+output:
+  xaringan::moon_reader:
+    css: ["default", "custom.css"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: true
+    seal: false
+    self_contained: true
+editor_options: 
+  chunk_output_type: console
+---
+class: title-slide   
+
+```{r setup, include=FALSE, message=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+# Nor'eastR Conference
+
+<img src="noreastr_big.png" style="width: 25%; height: 25%;"></img>
+
+## A one day \#rstats conference - Friday, October 26, 2018 - Providence, RI.
+
+<img src="sponsors.jpg" style="width: 60%; height: 60%;"></img>
+---
+
+# Thank You!
+
+.header[<img src="noreastr_big.png" style="width: 17%; height: 17%;"></img>]
+
+.left-column[
+
+]
+
+.right-column[
+
+]
+
+---
+
+# And now a word about our host!
+
+.header[<img src="noreastr_big.png" style="width: 17%; height: 17%;"></img>]
+
+.left-column[
+
+]
+
+.right-column[
+
+]
+
+---
+
+# Speaker Gift Bags!
+
+.header[<img src="noreastr_big.png" style="width: 17%; height: 17%;"></img>]
+
+.left-column[
+
+]
+
+.right-column[
+
+
+]
+
+---
+
+# Speaker Gift Bags: Del's
+
+.header[<img src="noreastr_big.png" style="width: 17%; height: 17%;"></img>]
+
+.left-column[
+
+Dave's tweet
+
+]
+
+.right-column[
+
+pic
+
+]
+
+---
+
+# Speaker Gift Bags: Kenyon's Johnny Cake Meal
+
+.header[<img src="noreastr_big.png" style="width: 17%; height: 17%;"></img>]
+
+.left-column[
+
+About Kenyon's and Johnny Cakes
+
+]
+
+.right-column[
+
+pic
+
+]
+
+---
+
+# Speaker Gift Bags: Eclipse Coffee Syrup
+
+.header[<img src="noreastr_big.png" style="width: 17%; height: 17%;"></img>]
+
+.left-column[
+
+Coffee Syrup Wars
+
+]
+
+.right-column[
+
+pic
+
+]
+
+---
+
+# Social
+
+.header[<img src="noreastr_big.png" style="width: 17%; height: 17%;"></img>]
+
+.left-column[
+
+Malted Barley!
+
+]
+
+.right-column[
+
+pic
+
+]
+
+
+---
+
+<img src="Thats_all_folks.svg"></img>
+
