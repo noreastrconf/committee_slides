@@ -1,0 +1,87 @@
+---
+title: "Welcome Back"
+author: "Jeff Hollister"
+date: 2018-10-26
+meeting: "Nor'eastR 2018"
+location: "PRovidence, RI"
+output:
+  xaringan::moon_reader:
+    css: ["default", "custom.css"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: true
+    seal: false
+    self_contained: true
+editor_options: 
+  chunk_output_type: console
+---
+class: title-slide   
+
+```{r setup, include=FALSE, message=FALSE}
+options(htmltools.dir.version = FALSE)
+library(dplyr)
+library(readxl)
+```
+
+# Nor'eastR Conference
+
+<img src="noreastr_big.png" style="width: 25%; height: 25%;"></img>
+
+## A one day \#rstats conference - Friday, October 26, 2018 - Providence, RI.
+
+<img src="sponsors.jpg" style="width: 60%; height: 60%;"></img>
+---
+
+# Welcome Back
+
+.center[
+### Manning Publications <https://www.manning.com/>
+### 40% Off - ctwnoreast18
+### 5 Free Copies of "Practical Data Science with R"
+]
+
+.header[<img src="noreastr_big.png" style="width: 17%; height: 17%;"></img>]
+
+---
+
+# And the winners are ...
+
+.header[<img src="noreastr_big.png" style="width: 17%; height: 17%;"></img>]
+
+<br/>
+<br/>
+
+```{r}
+# Winners re-run on 2018-10-26
+winners <- read_excel("AttendeeReport2528308.xls") %>%
+  filter(`Total Charges` != 0,
+         `Total Charges` <= 150) %>% # Attendees only!
+  filter(`Name` != "Hollister, Jeff") %>% # That'd be unfair.
+  pull(Name) %>%
+  sample(5)
+```
+--
+
+- `r winners[1]`
+
+--
+
+- `r winners[2]`
+
+--
+
+- `r winners[3]`
+
+--
+
+- `r winners[4]`
+
+--
+
+- `r winners[5]`
+
+--
+
+

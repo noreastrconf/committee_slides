@@ -1,0 +1,93 @@
+/* some custom css for slides */
+
+html body {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  background-color: white;
+}
+    
+
+/*home page*/
+
+.title-slide {
+    margin: 10vh 0;
+    text-align: center;
+}
+
+.title-slide img {
+  vertical-align: middle;
+}
+
+.title-slide > h1 {
+    color: #212121;
+    font-size: 6vh;
+    margin-bottom: 0px;
+    
+}
+
+.title-slide > h2 {
+    color: #757575;
+    font-size: 2vmin;
+}
+
+.title-slide h1, h2 {
+  text-align: center;
+  font-weight: normal;
+}
+
+.title-slide h3, h4 {
+  text-align: center;
+  font-weight: normal;
+}
+
+.title-slide .remark-slide-number {
+  display: none;
+}
+
+.remark-slide-content .header {
+  top: 12px;
+  left: 20px;
+  position: absolute;
+}
+
+/* Two-column layout */
+      .left-column {
+        width: 40%;
+        height: 92%;
+        float: left;
+        color: black;
+      }
+      
+      .right-column {
+        padding: 0;
+        width: 55%;
+        float: right;
+        color: black;
+      }
+
+/* Center-column layout */
+
+.center-column {
+  width: 50%;
+  height: 92%;
+  float: inherit;
+  color: black;
+}
+
+.remark-slide-content h1 {
+  text-align: center;
+}
+
+
+a {
+  color: #212121;
+  text-decoration: underline;
+}
+
+.inverse {
+    /*#205493*/
+    background-color: #162d50;
+}
+
+.remark-inline-code {
+  color: #162d50;
+}
