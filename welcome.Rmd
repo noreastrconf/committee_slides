@@ -91,6 +91,7 @@ The Nor'eastR Conference is dedicated to providing a harassment-free conference 
 .center[
 ### \#noreastr18 \#rstats
 ### @noreastrconf
+### [Tweet Buttons](https://noreastrconf.com/schedule)
 ]
 
 .header[<img src="noreastr_big.png" style="width: 17%; height: 17%;"></img>]
