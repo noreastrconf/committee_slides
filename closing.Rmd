@@ -31,13 +31,11 @@ options(htmltools.dir.version = FALSE)
 
 <img src="sponsors.jpg" style="width: 60%; height: 60%;"></img>
 ---
-
 # Thank You!
-
 
 .header[<img src="noreastr_big.png" style="width: 17%; height: 17%;"></img>]
 
-.left-column[
+.left-column-lower[
 
 - Committee
 - Sponsors
@@ -48,16 +46,15 @@ options(htmltools.dir.version = FALSE)
 ]
 
 .right-column[
-
+<img src="SMirC-thumbsup.svg.png" style="width: 80%; height: 80%;"></img>
 ]
-
 ---
 
 # Best! Host! Ever!
 
 .header[<img src="noreastr_big.png" style="width: 17%; height: 17%;"></img>]
 
-.left-column[
+.left-column-lower[
 
 - Amber Neville
 - Judith Swift
@@ -68,7 +65,7 @@ options(htmltools.dir.version = FALSE)
 
 .right-column[
 
-![ci](ci_logo_from_web.jpg)
+<img src="ci_logo_from_web.jpg" style="width: 80%; height: 80%;"></img>
 
 ]
 
@@ -78,66 +75,52 @@ options(htmltools.dir.version = FALSE)
 
 .header[<img src="noreastr_big.png" style="width: 17%; height: 17%;"></img>]
 
-.left-column[
+.left-column-lower[
+
+- Del's
 
 ]
 
 .right-column[
 
+<img src="Del's_Lemonade_Container_2011.jpg" style="width: 100%; height: 100%;"></img>
 
 ]
 
 ---
-
-# Speaker Gift Bags: Del's
+# Speaker Gift Bags!
 
 .header[<img src="noreastr_big.png" style="width: 17%; height: 17%;"></img>]
 
-.left-column[
+.left-column-lower[
 
-Dave's tweet
+- Del's
+- Eclipse Coffee Syrup
 
 ]
 
 .right-column[
 
-pic
+<img src="eclipse.jpg" style="width: 50%; height: 50%;"></img>
 
 ]
 
 ---
-
-# Speaker Gift Bags: Kenyon's Johnny Cake Meal
+# Speaker Gift Bags!
 
 .header[<img src="noreastr_big.png" style="width: 17%; height: 17%;"></img>]
 
-.left-column[
+.left-column-lower[
 
-About Kenyon's and Johnny Cakes
+- Del's
+- Eclipse Coffee Syrup
+- Kenyon's Johnnycake Mix
 
 ]
 
 .right-column[
 
-pic
-
-]
-
----
-
-# Speaker Gift Bags: Eclipse Coffee Syrup
-
-.header[<img src="noreastr_big.png" style="width: 17%; height: 17%;"></img>]
-
-.left-column[
-
-Coffee Syrup Wars
-
-]
-
-.right-column[
-
-pic
+<img src="kenyons.jpg" style="width: 70%; height: 70%;"></img>
 
 ]
 
@@ -147,17 +130,8 @@ pic
 
 .header[<img src="noreastr_big.png" style="width: 17%; height: 17%;"></img>]
 
-.left-column[
+<img src="map_social.jpg" style="width: 95%; height: 95%; margin-left: 20px;"></img>
 
-Malted Barley!
-
-]
-
-.right-column[
-
-pic
-
-]
 
 
 ---
