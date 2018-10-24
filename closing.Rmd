@@ -34,9 +34,16 @@ options(htmltools.dir.version = FALSE)
 
 # Thank You!
 
+
 .header[<img src="noreastr_big.png" style="width: 17%; height: 17%;"></img>]
 
 .left-column[
+
+- Committee
+- Sponsors
+- Volunteers
+- Attendees
+- URI
 
 ]
 
@@ -46,15 +53,22 @@ options(htmltools.dir.version = FALSE)
 
 ---
 
-# And now a word about our host!
+# Best! Host! Ever!
 
 .header[<img src="noreastr_big.png" style="width: 17%; height: 17%;"></img>]
 
 .left-column[
 
+- Amber Neville
+- Judith Swift
+- Nicole Rohr
+- Aislyne Calianos
+
 ]
 
 .right-column[
+
+![ci](ci_logo_from_web.jpg)
 
 ]
 
