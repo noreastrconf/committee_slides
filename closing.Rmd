@@ -37,16 +37,16 @@ options(htmltools.dir.version = FALSE)
 
 .left-column-lower[
 
-- Committee
-- Sponsors
-- Volunteers
-- Attendees
-- URI
+#### Committee
+#### Sponsors
+#### Volunteers
+#### Attendees
+#### URI
 
 ]
 
 .right-column[
-<img src="SMirC-thumbsup.svg.png" style="width: 80%; height: 80%;"></img>
+<img src="SMirC-thumbsup.svg.png" style="width: 70%; height: 70%; margin-left: 25px;"></img>
 ]
 ---
 
@@ -56,16 +56,16 @@ options(htmltools.dir.version = FALSE)
 
 .left-column-lower[
 
-- Amber Neville
-- Judith Swift
-- Nicole Rohr
-- Aislyne Calianos
+#### Amber Neville
+#### Judith Swift
+#### Nicole Rohr
+#### Aislyne Calianos
 
 ]
 
 .right-column[
 
-<img src="ci_logo_from_web.jpg" style="width: 80%; height: 80%;"></img>
+<img src="ci_logo_from_web.jpg" style="width: 70%; height: 70%; margin-left: 25px;"></img>
 
 ]
 
@@ -77,13 +77,13 @@ options(htmltools.dir.version = FALSE)
 
 .left-column-lower[
 
-- Del's
+#### Del's
 
 ]
 
 .right-column[
 
-<img src="Del's_Lemonade_Container_2011.jpg" style="width: 100%; height: 100%;"></img>
+<img src="dels.jpg" style="width: 80%; height: 80%; "></img>
 
 ]
 
@@ -94,14 +94,14 @@ options(htmltools.dir.version = FALSE)
 
 .left-column-lower[
 
-- Del's
-- Eclipse Coffee Syrup
+#### Del's
+#### Eclipse Coffee Syrup
 
 ]
 
 .right-column[
 
-<img src="eclipse.jpg" style="width: 50%; height: 50%;"></img>
+<img src="eclipse.jpg" style="width: 50%; height: 50%; margin-left: 25px;"></img>
 
 ]
 
@@ -112,15 +112,15 @@ options(htmltools.dir.version = FALSE)
 
 .left-column-lower[
 
-- Del's
-- Eclipse Coffee Syrup
-- Kenyon's Johnnycake Mix
+#### Del's
+#### Eclipse Coffee Syrup
+#### Kenyon's Johnnycake Mix
 
 ]
 
 .right-column[
 
-<img src="kenyons.jpg" style="width: 70%; height: 70%;"></img>
+<img src="kenyons.jpg" style="width: 70%; height: 70%; margin-left: 20px;"></img>
 
 ]
 
@@ -131,8 +131,6 @@ options(htmltools.dir.version = FALSE)
 .header[<img src="noreastr_big.png" style="width: 17%; height: 17%;"></img>]
 
 <img src="map_social.jpg" style="width: 95%; height: 95%; margin-left: 20px;"></img>
-
-
 
 ---
 
