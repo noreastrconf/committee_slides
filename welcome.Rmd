@@ -97,19 +97,12 @@ The Nor'eastR Conference is dedicated to providing a harassment-free conference 
 .header[<img src="noreastr_big.png" style="width: 17%; height: 17%;"></img>]
 
 ---
-# Wireless
-
-.center[
-### Need Name
-### Need Code
-]
----
 # Additional Information
 
 .center[
-### Preferred pronoun stickers
 ### Photo/Do Not Photo - Red Stickers
 ### Where are the restrooms???
+### Wireless - instructions available at registration
 ]
 
 .header[<img src="noreastr_big.png" style="width: 17%; height: 17%;"></img>]
